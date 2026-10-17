@@ -1,0 +1,10 @@
+requests
+pandas
+psycopg2-binary
+sqlalchemy
+streamlit
+python-dotenv
+kafka-python
+pyspark
+apache-airflow
+faker
